@@ -46,3 +46,13 @@ Servir como punto de encuentro unificado para el equipo de desarrollo, administr
 2. **Directiva de Monorepo**: Todo desarrollo para plugins consolidados debe realizarse exclusivamente en `StarSuites`.
 3. **Compatibilidad Sin Regresiones**: Preservar estrictamente las claves de Paper Data Components (`slimefun:slimefun_item`).
 4. **Seguridad en Producción**: Prohibido enviar comandos de reinicio destructivos sin coordinación previa.
+
+---
+
+## 📄 License & Upstream Attribution
+
+This project is a sovereign fork maintained by [**JackStar6677-1**](https://github.com/JackStar6677-1) under [**DrakesCraft Labs**](https://github.com/DrakesCraft-Labs).
+
+- **Original Project:** Created by the upstream authors and the open-source community.
+- **DrakesCraft Optimizations:** Modernized for Paper/Purpur 1.21.11+, Java 21, high concurrency, asynchronous safety, and exploit/duplication prevention.
+- **License:** Distributed under the original **GNU General Public License v3.0 (GPLv3)** (or original upstream license). See the [LICENSE](LICENSE) file for complete terms.
