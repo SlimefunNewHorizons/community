@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DrakesCraft-Labs/community/main/banner.svg" width="100%" alt="COMMUNITY Animated Banner" />
+  <img src="https://raw.githubusercontent.com/SlimefunNewHorizons/community/main/banner.svg" width="100%" alt="COMMUNITY Animated Banner" />
 </p>
 
 # DrakesCraft Labs — Community & Discussions
@@ -21,7 +21,7 @@ Repositorio central para discusiones de arquitectura, anuncios de desarrollo, co
 ## 🎯 Propósito
 
 Servir como punto de encuentro unificado para el equipo de desarrollo, administradores y colaboradores de la red DrakesCraft para:
-- Proponer nuevas mecánicas, plugins y módulos para **[StarSuites](https://github.com/DrakesCraft-Labs/Drakes-Suites)**.
+- Proponer nuevas mecánicas, plugins y módulos para **[StarSuites](https://github.com/SlimefunNewHorizons/Drakes-Suites)**.
 - Planificar hojas de ruta (*roadmaps*) y actualizaciones mayores de temporada.
 - Reportar problemas que involucren múltiples plugins o servicios externos.
 - Gestionar plantillas de incidencias y lineamientos de contribución.
@@ -30,10 +30,10 @@ Servir como punto de encuentro unificado para el equipo de desarrollo, administr
 
 ## 🌐 Ecosistema DrakesCraft-Labs & StarSuites
 
-- **Monorepo Insignia**: [**StarSuites**](https://github.com/DrakesCraft-Labs/Drakes-Suites) (`drakes-core.jar` a `drakes-server.jar`)
+- **Monorepo Insignia**: [**StarSuites**](https://github.com/SlimefunNewHorizons/Drakes-Suites) (`drakes-core.jar` a `drakes-server.jar`)
 - **Motor Central de Servidor**: `Star Engine` / `Odysseia` (`drakes-server.jar`)
 - **Suite Multiverse (Autoría Chagui68)**: `MultiverseCreatures` & `MultiverseNets`
-- **Aceleración Off-Heap en Rust**: [`Slimefun-Rust`](https://github.com/DrakesCraft-Labs/Slimefun-Rust) & `Star-Rust`
+- **Aceleración Off-Heap en Rust**: [`Slimefun-Rust`](https://github.com/SlimefunNewHorizons/Slimefun-Rust) & `Star-Rust`
 - **Jefes & Encuentros Divinos**: `DrakesBosses`, `DiosesDrakes`
 - **Economía & Finanzas**: `sbank`, `DrakesSlimeMarket`
 - **Portal Web & Tienda**: `drakescraft-web`
@@ -51,7 +51,7 @@ Servir como punto de encuentro unificado para el equipo de desarrollo, administr
 
 ## 📄 License & Upstream Attribution
 
-This project is a sovereign fork maintained by [**JackStar6677-1**](https://github.com/JackStar6677-1) under [**DrakesCraft Labs**](https://github.com/DrakesCraft-Labs).
+This project is a sovereign fork maintained by [**JackStar6677-1**](https://github.com/JackStar6677-1) under [**DrakesCraft Labs**](https://github.com/SlimefunNewHorizons).
 
 - **Original Project:** Created by the upstream authors and the open-source community.
 - **DrakesCraft Optimizations:** Modernized for Paper/Purpur 1.21.11+, Java 21, high concurrency, asynchronous safety, and exploit/duplication prevention.
