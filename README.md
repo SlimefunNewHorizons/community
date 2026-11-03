@@ -14,7 +14,7 @@
 
 ---
 
-Repositorio central para discusiones de arquitectura, anuncios de desarrollo, coordinación de issues cross-repository y gobernanza técnica del ecosistema **DrakesCraft-Labs**.
+Repositorio central para discusiones de arquitectura, anuncios de desarrollo, coordinación de issues cross-repository y gobernanza técnica del ecosistema **SlimefunNewHorizons**.
 
 ---
 
@@ -28,7 +28,7 @@ Servir como punto de encuentro unificado para el equipo de desarrollo, administr
 
 ---
 
-## 🌐 Ecosistema DrakesCraft-Labs & StarSuites
+## 🌐 Ecosistema SlimefunNewHorizons & StarSuites
 
 - **Monorepo Insignia**: [**StarSuites**](https://github.com/SlimefunNewHorizons/Drakes-Suites) (`drakes-core.jar` a `drakes-server.jar`)
 - **Motor Central de Servidor**: `Star Engine` / `Odysseia` (`drakes-server.jar`)
